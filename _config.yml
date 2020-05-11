@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Brett A. McCully"
+  name             : #"Brett A. McCully"
   avatar           : "Headshot-166.jpg"
   bio              : #"5th year economics PhD student at UCLA studying topics in international and applied microeconomics"
   location         : #"Los Angeles, CA"
