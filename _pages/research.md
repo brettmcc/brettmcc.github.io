@@ -9,7 +9,7 @@ author_profile: true
 
 ### Published Papers
 
-[How Much Are Car Purchases Driven by Home Equity Withdrawal? Evidence from Household Surveys](http://brettmcc.github.io/files/MCCULLY_et_al-2019-Journal_of_Money,_Credit_and_Banking.pdf) (with [Daniel J. Vine](https://www.federalreserve.gov/econres/daniel-j-vine.htm) and [Karen M. Pence](https://www.federalreserve.gov/econres/karen-m-pence.htm)), 2019, Vol. 51, No. 5, *Journal of Money, Credit, and Banking*.
+[How Much Are Car Purchases Driven by Home Equity Withdrawal? Evidence from Household Surveys](https://brettmcc.github.io/files/MCCULLY_et_al-2019-Journal_of_Money,_Credit_and_Banking.pdf) (with [Daniel J. Vine](https://www.federalreserve.gov/econres/daniel-j-vine.htm) and [Karen M. Pence](https://www.federalreserve.gov/econres/karen-m-pence.htm)), 2019, Vol. 51, No. 5, *Journal of Money, Credit, and Banking*.
 
 
 
