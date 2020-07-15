@@ -12,13 +12,13 @@ I am a fifth year economics PhD student at UCLA studying the economics of crime 
 
 [CV pdf](https://brettmcc.github.io/files/mccully-CV.pdf)
 
-##Research 
+## Research 
 
 ### Publications
 
 [How Much Are Car Purchases Driven by Home Equity Withdrawal? Evidence from Household Surveys](https://brettmcc.github.io/files/MCCULLY_et_al-2019-Journal_of_Money,_Credit_and_Banking.pdf) (with [Daniel J. Vine](https://www.federalreserve.gov/econres/daniel-j-vine.htm) and [Karen M. Pence](https://www.federalreserve.gov/econres/karen-m-pence.htm)), 2019, Vol. 51, No. 5, *Journal of Money, Credit, and Banking*.
 
-[Is Underemployment Underestimated? Evidence from Panel Data](https://www.federalreserve.gov/econresdata/notes/feds-notes/2016/is-underemployment-underestimated-evidence-from-panel-data-20160516.html) (with Geng Li), May 2016, FEDS Notes.
+[Is Underemployment Underestimated? Evidence from Panel Data](https://www.federalreserve.gov/econresdata/notes/feds-notes/2016/is-underemployment-underestimated-evidence-from-panel-data-20160516.html) (with [Geng Li](https://sites.google.com/site/gengliresearch/)), May 2016, FEDS Notes.
 
 
 
