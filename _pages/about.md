@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fifth year economics PhD student at UCLA studying the economics of crime and migration. I will be on the job market in academic year 2020-2021.
 
-[CV [pdf]](https://brettmcc.github.io/files/mccully-CV.pdf)
+See my CV [here](https://brettmcc.github.io/files/mccully-CV.pdf)
 
 ## Research 
 
