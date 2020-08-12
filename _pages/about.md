@@ -23,7 +23,7 @@ I am a fifth year economics PhD student at UCLA studying the economics of crime 
 
 
 ### Works-in-Progress
-Migrants, Citizenship, and Illegal Trade (job market paper)
+Immigrants, Immigration Policy, and Illegal Trade (job market paper)
 
 Labor Market Hours Constraints and Home Production (with [Geng Li](https://sites.google.com/site/gengliresearch/))
 

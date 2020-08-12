@@ -82,12 +82,12 @@ analytics:
 author:
   name             : #"Brett A. McCully"
   avatar           : "https://brettmcc.github.io/images/Headshot-166.jpg"
-  bio              : #"5th year economics PhD student at UCLA studying topics in international and applied microeconomics"
+  bio              : "bmccully@ucla.edu"
   location         : #"Los Angeles, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "bmccully@ucla.edu"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
