@@ -14,7 +14,7 @@ I am a fifth year economics PhD student at UCLA studying the economics of crime 
 
 ## Research 
 
-## Job Market Paper
+### Job Market Paper
 
 **Immigrants, Legal Status, and Illegal Trade** [available upon request]
 
