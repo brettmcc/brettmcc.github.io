@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : #"Brett A. McCully"
-  avatar           : "https://brettmcc.github.io/images/Headshot-thumbnail.png"
+  avatar           : "https://brettmcc.github.io/images/headshot-thumbnail.png"
   bio              : "Email: bmccully@ucla.edu"
   location         : #"Los Angeles, CA"
   employer         :
