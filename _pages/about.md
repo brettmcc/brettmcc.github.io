@@ -14,9 +14,8 @@ I am a fifth year economics PhD student at UCLA studying the economics of crime 
 
 ## Research 
 
-### Job Market Paper
-
-**Immigrants, Legal Status, and Illegal Trade** [available upon request]
+### Job Market Paper: Immigrants, Legal Status, and Illegal Trade
+[available upon request]
 
 Nearly $2 trillion worth of illegal goods are trafficked across international borders per year, generating violence and other social costs along the way. Some have controversially suggested that restricting immigration may reduce trafficking, but data limitations have precluded rigorous analysis of this hypothesis. In this paper, I use novel data on nearly 10,000 confiscations of illegal drugs in Spain to study how immigrants and immigration policy affect the pattern and scale of illegal drug trafficking. Exploiting the interaction between push and pull forces that drive immigration flows, I generate exogenous variation in the number of immigrants from a given foreign country living in each Spanish province. I find that a 10% larger population of immigrants from a given foreign country relative to the mean raises the value of drugs trafficked from the foreign country into a given province by 12%. Moreover, this relationship is driven entirely by immigrants without legal status. To better understand the role of legal status, I exploit an extraordinary regularization of nearly half a million immigrants in 2005. Event study estimates suggest that providing immigrants a path to citizenship diminishes the role immigrants play in drug trafficking. 
 
