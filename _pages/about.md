@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+{::options parse_block_html="true" /}
 ---
 
 I am a fifth year economics PhD student at UCLA studying the economics of crime and migration. **I am on the job market in academic year 2020-2021 and am available for interviews.**
