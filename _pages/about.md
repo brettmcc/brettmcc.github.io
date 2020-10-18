@@ -19,6 +19,9 @@ I am a fifth year economics PhD student at UCLA studying the economics of crime 
 
 Nearly $2 trillion worth of illegal goods are trafficked across international borders per year, generating violence and other social costs along the way. Some have controversially linked this trafficking to immigrants, but even if true the optimal immigration policy response is unclear. In this paper, I use novel data on nearly 10,000 confiscations of illegal drugs in Spain to study how immigrants and immigration policy affect the pattern and scale of illegal drug trafficking. To identify the causal effect of immigrants on trafficking, I construct an instrumental variable that interacts variation in (i) total immigrant inflows into Spain by origin country and (ii) the fraction of immigrants inflowing into a province. I find that a 10% larger population of immigrants from a given foreign country relative to the mean raises the value of drugs from the foreign country confiscated in a given province by 12%. Moreover, this relationship is driven entirely by immigrants without legal status. To better understand the role of legal status, I exploit an extraordinary regularization of nearly half a million immigrants in 2005. Event study estimates suggest that legalizing immigrants and providing a path to citizenship diminishes the role immigrants play in drug trafficking. 
 
+> ####Upcoming Presentations
+> [APPAM](https://appam.confex.com/appam/2020/meetingapp.cgi/Paper/36358), November 11th, 11am-11:55am PST (poster session)
+
 ### Publications
 
 [How Much Are Car Purchases Driven by Home Equity Withdrawal? Evidence from Household Surveys](https://brettmcc.github.io/files/MCCULLY_et_al-2019-Journal_of_Money,_Credit_and_Banking.pdf) (with [Daniel J. Vine](https://www.federalreserve.gov/econres/daniel-j-vine.htm) and [Karen M. Pence](https://www.federalreserve.gov/econres/karen-m-pence.htm)), 2019, Vol. 51, No. 5, *Journal of Money, Credit, and Banking*.
