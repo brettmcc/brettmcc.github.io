@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a sixth year economics PhD student at UCLA specializing in applied microeconomics. I am interested in the economics of migration, crime, and trade. **I am on the job market in academic year 2020-2021 and am available for interviews at the EEA and ASSA meetings.**
+I am a sixth year economics PhD student at UCLA specializing in applied microeconomics. I am interested in the economics of migration, crime, and trade. **I am on the job market in academic year 2020-2021 and am generally available for virtual interviews.**
 
 [Curriculum Vitae](https://brettmcc.github.io/files/mccully-CV.pdf)
 
 ## Research 
 
 ### [Job Market Paper: Immigrants, Legal Status, and Illegal Trade](https://brettmcc.github.io/files/jmp.pdf)
-
-*Upcoming presentation: [European Winter Meetings of the Econometric Society, December 14, 8:30am PST](https://ewmes-ejm-virtual2020.org/sessions/mobility-trade-and-immigration)
 
 Nearly $2 trillion worth of illegal goods are trafficked across international borders every year, generating violence and other social costs along the way. Some have controversially linked illegal trafficking to immigrants, yet an appropriate immigration policy response is unclear. In this paper, I use novel data on nearly 10,000 confiscations of illegal drugs in Spain to study how immigrants and immigration policy affect the pattern and scale of illegal drug trafficking. To identify the causal effect of immigrants on trafficking, I construct an instrumental variable that interacts variation in total immigrant inflows into Spain by origin country with the fraction of immigrants inflowing into a province. I find that a 10% increase in the population of immigrants from a given origin country relative to the mean raises the value of drugs trafficked from the origin country confiscated in a given province by 12%. Moreover, this relationship is driven entirely by immigrants without legal status. To better understand the role of legal status, I exploit an extraordinary regularization of nearly half a million immigrants in 2005. Event study estimates suggest that granting immigrants legal status results in a long-run decline in drug trafficking, corresponding to the acquisition of citizenship by the immigrants. 
 
