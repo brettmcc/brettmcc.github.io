@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a sixth year economics PhD student at UCLA specializing in applied microeconomics. I am interested in the economics of migration, crime, and trade. **I am on the job market in academic year 2020-2021 and am generally available for virtual interviews.**
+I am a sixth year economics PhD student at UCLA specializing in applied microeconomics. I am interested in the economics of migration, crime, and trade. I will be joining the [Collegio Carlo Alberto](https://www.carloalberto.org/) as an Assistant Professor starting in September 2021. 
 
 [Curriculum Vitae](https://brettmcc.github.io/files/mccully-CV.pdf)
 
