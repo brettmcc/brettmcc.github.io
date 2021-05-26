@@ -32,4 +32,4 @@ I am a sixth year economics PhD student at UCLA studying applied microeconomics.
 
 Labor Market Hours Constraints and Home Production (with [Geng Li](https://sites.google.com/site/gengliresearch/))
 
-Health, Fertility, and Productivity: Long-term Effects of a Health and Family Planning Program (with [Tania Barham](https://ibs.colorado.edu/barham/), [Randall Kuhn](https://ph.ucla.edu/faculty/kuhn), and [Patrick Turner](https://sites.google.com/a/colorado.edu/psullivant/))
+The Effect of an Early-Childhood and Fertility Intervention on Firm and Farm Productivity (with [Tania Barham](https://ibs.colorado.edu/barham/), [Randall Kuhn](https://ph.ucla.edu/faculty/kuhn), and [Patrick Turner](https://sites.google.com/a/colorado.edu/psullivant/))
