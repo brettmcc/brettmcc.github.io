@@ -20,6 +20,8 @@ I am a sixth year economics PhD student at UCLA studying applied microeconomics.
 
 *Upcoming presentations:* Networks Conference at INET ([scheduled](https://www.inet.econ.cam.ac.uk/event-item?item=young-academics-networks-conference-june-2021)), Annual Conference of the European Society for Population Economics ([scheduled](https://editorialexpress.com/conference/ESPE2021/program/ESPE2021.html#99)), Econ of Crime online seminar ([scheduled](http://jenniferdoleac.com/online-economics-of-crime-seminar/)), NBER Summer Institute (International Trade and Investment) ([scheduled](https://www.nber.org/conferences/si-2021-international-trade-investment)), EEA-ESEM (accepted), Italian Society of Economics Annual Meeting (accepted)
 
+------------
+""", width=500)
 
 [How Much Are Car Purchases Driven by Home Equity Withdrawal? Evidence from Household Surveys](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6880956/) (with [Daniel J. Vine](https://www.federalreserve.gov/econres/daniel-j-vine.htm) and [Karen M. Pence](https://www.federalreserve.gov/econres/karen-m-pence.htm)), 2019, Vol. 51, No. 5, *Journal of Money, Credit, and Banking*.
 
