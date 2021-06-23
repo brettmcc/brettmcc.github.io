@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Brett A. McCully | Economics PhD"
 title_separator          : "-"
 name                     : &name "Brett A. McCully"
-description              : &description "5th year economics PhD at UCLA"
+description              : &description ""
 url                      : "https://brettmcc.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "brettmcc.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : #"Brett A. McCully"
   avatar           : "https://brettmcc.github.io/images/headshot-thumbnail.png"
-  bio              : "Email: bmccully@ucla.edu"
+  bio              : "Email: brett.mccully@carloalberto.org"
   location         : #"Los Angeles, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
