@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I will be an Assistant Professor starting in September 2021 at the [Collegio Carlo Alberto](https://www.carloalberto.org/). I am interested in the economics of migration, crime, and trade.
+I am an Assistant Professor at [Collegio Carlo Alberto](https://www.carloalberto.org/). I am interested in the economics of migration, crime, and trade.
 
 [Curriculum Vitae](https://brettmcc.github.io/files/mccully-CV.pdf)
 
