@@ -14,7 +14,9 @@ I am an Assistant Professor at [Collegio Carlo Alberto](https://www.carloalberto
 
 ## Research 
 
-[Immigrants, Legal Status, and Illegal Trade](https://brettmcc.github.io/files/jmp.pdf) [REVISED November 2021]
+[Immigrants, Legal Status, and Illegal Trade](https://brettmcc.github.io/files/jmp.pdf) 
+
+<font size="4"> *Media coverage: [Political Violence at a Glance](https://politicalviolenceataglance.org/2021/05/03/will-the-migrant-surge-raise-crime/), [Nada es Gratis (in Spanish)](https://nadaesgratis.es/admin/inmigrantes-y-trafico-de-drogas), [How to Sell Drugs (podcast)](https://anchor.fm/lucy-podcast/episodes/Ep--15---Brett-McCully-e46oha)*<\font>
 
 
 ------------
