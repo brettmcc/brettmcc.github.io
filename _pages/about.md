@@ -19,7 +19,7 @@ I am an Assistant Professor at [Collegio Carlo Alberto](https://www.carloalberto
 <small><i>Notoriety: <a href="https://politicalviolenceataglance.org/2021/05/03/will-the-migrant-surge-raise-crime/">Political Violence at a Glance</a>, <a href="https://nadaesgratis.es/admin/inmigrantes-y-trafico-de-drogas">Nada es Gratis (in Spanish)</a>, <a href="https://anchor.fm/lucy-podcast/episodes/Ep--15---Brett-McCully-e46oha">How to Sell Drugs (podcast)</a>, <a href="https://www.siecon.org/it/premi/young-italian-economist-award">Young Italian Economist Award 2021</a></i></small>
 
 
-[Structural Transformation and the Demographic Transition: Evidence from Bangladesh](https://www.brettmccully.com/files/structrans-demotrans-BKMT.pdf) (with [Tania Barham](https://ibs.colorado.edu/barham/), [Randall Kuhn](https://ph.ucla.edu/faculty/kuhn), and [Patrick Turner](https://sites.google.com/a/colorado.edu/psullivant/))
+[Structural Transformation and the Demographic Transition: Evidence from Bangladesh](https://www.brettmccully.com/files/structrans-demotrans_BKMT.pdf) (with [Tania Barham](https://ibs.colorado.edu/barham/), [Randall Kuhn](https://ph.ucla.edu/faculty/kuhn), and [Patrick Turner](https://sites.google.com/a/colorado.edu/psullivant/))
 
 
 ### Publication 
