@@ -39,4 +39,4 @@ Labor Market Hours Constraints and Home Production (with [Geng Li](https://sites
 
 The Trade-Creating Effect of Immigrants: Evidence from Detailed Consumption Data (with [Christoph Albert](https://christophalbert.weebly.com/) and [Torsten Jaccard](https://torstenjaccard.wordpress.com/))
 
-Brahmin Left Versus Xenophobic Right? The Effect of Immigration on Political Cleavages (with [Christoph Albert}(https://christophalbert.weebly.com/)), [Ismael Galvez-Iniesta](https://sites.google.com/view/ismaelgalvez/home?authuser=0), and [Jose L. Groizard](https://sites.google.com/view/jlgroizard))
+Brahmin Left Versus Xenophobic Right? The Effect of Immigration on Political Cleavages (with [Christoph Albert](https://christophalbert.weebly.com/)), [Ismael Galvez-Iniesta](https://sites.google.com/view/ismaelgalvez/home?authuser=0), and [Jose L. Groizard](https://sites.google.com/view/jlgroizard))
