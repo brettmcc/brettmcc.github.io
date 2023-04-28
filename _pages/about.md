@@ -28,7 +28,7 @@ I am an Assistant Professor at [Collegio Carlo Alberto](https://www.carloalberto
 [How Much Are Car Purchases Driven by Home Equity Withdrawal? Evidence from Household Surveys](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6880956/) (with [Daniel J. Vine](https://www.federalreserve.gov/econres/daniel-j-vine.htm) and [Karen M. Pence](https://www.federalreserve.gov/econres/karen-m-pence.htm)), 2019, Vol. 51, No. 5, *Journal of Money, Credit, and Banking*.
 
 
-### Other Publication
+### Policy Paper
 [Is Underemployment Underestimated? Evidence from Panel Data](https://www.federalreserve.gov/econresdata/notes/feds-notes/2016/is-underemployment-underestimated-evidence-from-panel-data-20160516.html) (with [Geng Li](https://sites.google.com/site/gengliresearch/)), May 2016, FEDS Notes.
 
 
@@ -39,4 +39,4 @@ Labor Market Hours Constraints and Home Production (with [Geng Li](https://sites
 
 The Trade-Creating Effect of Immigrants: Evidence from Detailed Consumption Data (with [Christoph Albert](https://christophalbert.weebly.com/) and [Torsten Jaccard](https://torstenjaccard.wordpress.com/))
 
-Brahmin Left Versus Xenophobic Right? The Effect of Immigration on Political Cleavages (with [Christoph Albert](https://christophalbert.weebly.com/)), [Ismael Galvez-Iniesta](https://sites.google.com/view/ismaelgalvez/home?authuser=0), and [Jose L. Groizard](https://sites.google.com/view/jlgroizard))
+Brahmin Left Versus Xenophobic Right? The Effect of Immigration on Political Cleavages (with [Christoph Albert](https://christophalbert.weebly.com/), [Ismael Galvez-Iniesta](https://sites.google.com/view/ismaelgalvez/home?authuser=0), and [Jose L. Groizard](https://sites.google.com/view/jlgroizard))
