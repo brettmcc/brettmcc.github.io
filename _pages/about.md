@@ -37,6 +37,4 @@ I am an Assistant Professor at [Collegio Carlo Alberto](https://www.carloalberto
 
 Labor Market Hours Constraints and Home Production (with [Geng Li](https://sites.google.com/site/gengliresearch/))
 
-The Trade-Creating Effect of Immigrants: Evidence from Detailed Consumption Data (with [Christoph Albert](https://christophalbert.weebly.com/) and [Torsten Jaccard](https://torstenjaccard.wordpress.com/))
-
 
